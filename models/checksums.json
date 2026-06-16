@@ -1,0 +1,17 @@
+{
+  "models": {
+    "jarvis_ptbr_user.onnx": {
+      "sha256": "b6e86a78e3b9aa5d3709e3f938938345dc151914f009a93b1b6715d66a99117b",
+      "size_bytes": 858869,
+      "type": "openwakeword",
+      "label": "jarvis_ptbr_user",
+      "language": "pt-BR"
+    },
+    "jarvis-clone-trimmed.wav": {
+      "sha256": "49ef07da5274a14454cccdc497f335f00200c1f5b32cbdf786411bc9ab207142",
+      "size_bytes": 528076,
+      "type": "omnivoice-tts-voice",
+      "voice_id": "jarvis-clone-trimmed"
+    }
+  }
+}
